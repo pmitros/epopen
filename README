@@ -1,0 +1,4 @@
+epopen is an Extended popen. It runs a program, like 'system' or
+'popen', but returns file pointers to both STDIN and STDOUT. Useful
+for basic automation of text-based programs.
+
